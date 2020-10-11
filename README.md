@@ -1,10 +1,4 @@
-# Angular, NodeJS, MongoDB Customers Service
 
-This project provides a look at getting started using Angular Http functionality and how it can be used
-to call a Node.js RESTful service. The code is for the Integrating Angular with Node.js RESTful Services
-available on Pluralsight at https://www.pluralsight.com/courses/angular-nodejs-restful-services.
-
-## Angular Concepts Covered
 
 * Using the Angular CLI
 * Using TypeScript classes and modules
